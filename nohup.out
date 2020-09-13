@@ -1,0 +1,170 @@
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Erro: objeto 'tags' não encontrado
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/config/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  não foi possível encontrar a função "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  não foi possível encontrar a função "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  não foi possível encontrar a função "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida
