@@ -1,0 +1,39 @@
+@import "../SideBarPanelItem/styles";
+
+@mixin sideBarPanel {
+  .sideBarPanel {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    min-height: 100vh;
+    width: 25%;
+    min-width: 250px;
+    max-width: 400px;
+    padding: 0 10px;
+    background-color: $base-white;
+
+    .logo {
+      width: 100%;
+      margin-top: 30px;
+    }
+
+    .navigation {
+      display: flex;
+      flex-direction: column;
+
+      @include sideBarPanelItem();
+    }
+
+    .footer {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+
+      p {
+        margin-left: 7px;
+        font-size: 15pt;
+      }
+    }
+  }
+}

@@ -168,3 +168,479 @@ Listening on http://127.0.0.1:3333
 
 
 Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in sass_options(output_styles = "expanded") : 
+  unused argument (output_styles = "expanded")
+Calls: <Anonymous> ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list -> sass
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+Error in file(filename, "r", encoding = encoding) : 
+  não é possível abrir a conexão
+Calls: source -> withVisible -> eval -> eval -> source -> file
+Além disso: Warning message:
+In file(filename, "r", encoding = encoding) :
+  não foi possível abrir o arquivo './src/functions/MainPanel/index.R': Arquivo ou diretório não encontrado
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+NULL
+   code_mun_saude          mun time epi_week type confirmed deaths int_clinical
+1          313670 Juiz de Fora    1       11  pjf         1      0          924
+2          313670 Juiz de Fora    2       12  pjf         7      0          924
+3          313670 Juiz de Fora    3       13  pjf        27      0          924
+4          313670 Juiz de Fora    4       14  pjf        37      0          924
+5          313670 Juiz de Fora    5       15  pjf        73      1          924
+6          313670 Juiz de Fora    6       16  pjf       104      2          924
+7          313670 Juiz de Fora    7       17  pjf       128      5          924
+8          313670 Juiz de Fora    8       18  pjf       216      6          895
+9          313670 Juiz de Fora    9       19  pjf       328     17          895
+10         313670 Juiz de Fora   10       20  pjf       422     23          895
+11         313670 Juiz de Fora   11       21  pjf       553     27          895
+12         313670 Juiz de Fora   12       22  pjf       615     32          895
+13         313670 Juiz de Fora   13       23  pjf       727     38          909
+14         313670 Juiz de Fora   14       24  pjf       872     39          909
+15         313670 Juiz de Fora   15       25  pjf      1258     46          909
+16         313670 Juiz de Fora   16       26  pjf      1618     54          909
+17         313670 Juiz de Fora   17       27  pjf      2244     63           NA
+18         313670 Juiz de Fora   18       28  pjf      2614     78           NA
+19         313670 Juiz de Fora   19       29  pjf      3060     93           NA
+20         313670 Juiz de Fora   20       30  pjf      3305    104           NA
+21         313670 Juiz de Fora   21       31  pjf      3573    117           NA
+22         313670 Juiz de Fora   22       32  pjf      3979    123           NA
+23         313670 Juiz de Fora   23       33  pjf      4214    134           NA
+24         313670 Juiz de Fora   24       34  pjf      4486    150           NA
+25         313670 Juiz de Fora   25       35  pjf      4818    158           NA
+26         313670 Juiz de Fora   26       36  pjf      4836    160           NA
+   int_pediatric int_total uti_adult uti_pediatric uti_adult_covid
+1            146      1070       190            18               0
+2            146      1070       190            18               0
+3            146      1070       190            18               0
+4            141      1065       190            18               0
+5            141      1065       190            18               0
+6            141      1065       190            18               0
+7            141      1065       190            18               0
+8            144      1039       206            17              68
+9            144      1039       206            17              68
+10           144      1039       206            17              68
+11           144      1039       206            17              68
+12           144      1039       206            17              68
+13           144      1053       206            17              64
+14           144      1053       206            17              64
+15           144      1053       206            17              64
+16           144      1053       206            17              64
+17            NA        NA        NA            NA              NA
+18            NA        NA        NA            NA              NA
+19            NA        NA        NA            NA              NA
+20            NA        NA        NA            NA              NA
+21            NA        NA        NA            NA              NA
+22            NA        NA        NA            NA              NA
+23            NA        NA        NA            NA              NA
+24            NA        NA        NA            NA              NA
+25            NA        NA        NA            NA              NA
+26            NA        NA        NA            NA              NA
+   uti_pediatric_covid uti_total equip_exist equip_uso estab_equip id_mun
+1                    0       208         386       351          21   2664
+2                    0       208         386       351          21   2664
+3                    0       208         386       351          21   2664
+4                    0       208         400       365          21   2664
+5                    0       208         400       365          21   2664
+6                    0       208         400       365          21   2664
+7                    0       208         400       365          21   2664
+8                    1       292         406       371          21   2664
+9                    1       292         406       371          21   2664
+10                   1       292         406       371          21   2664
+11                   1       292         406       371          21   2664
+12                   1       292         406       371          21   2664
+13                   1       288         409       374          21   2664
+14                   1       288         409       374          21   2664
+15                   1       288         409       374          21   2664
+16                   1       288         409       374          21   2664
+17                  NA        NA          NA        NA          NA   2664
+18                  NA        NA          NA        NA          NA   2664
+19                  NA        NA          NA        NA          NA   2664
+20                  NA        NA          NA        NA          NA   2664
+21                  NA        NA          NA        NA          NA   2664
+22                  NA        NA          NA        NA          NA   2664
+23                  NA        NA          NA        NA          NA   2664
+24                  NA        NA          NA        NA          NA   2664
+25                  NA        NA          NA        NA          NA   2664
+26                  NA        NA          NA        NA          NA   2664
+   code_mun_ibge population        micro code_micro         meso code_meso
+1        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+2        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+3        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+4        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+5        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+6        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+7        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+8        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+9        3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+10       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+11       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+12       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+13       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+14       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+15       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+16       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+17       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+18       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+19       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+20       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+21       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+22       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+23       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+24       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+25       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+26       3136702     568873 Juiz de Fora      31065 Zona da Mata      3112
+    micro_saude code_micro_saude macro_saude code_macro_saude           uf
+1  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+2  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+3  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+4  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+5  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+6  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+7  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+8  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+9  Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+10 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+11 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+12 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+13 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+14 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+15 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+16 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+17 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+18 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+19 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+20 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+21 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+22 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+23 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+24 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+25 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+26 Juiz de Fora            31097     Sudeste             3107 Minas Gerais
+   code_uf     reg code_reg
+1       31 Sudeste        3
+2       31 Sudeste        3
+3       31 Sudeste        3
+4       31 Sudeste        3
+5       31 Sudeste        3
+6       31 Sudeste        3
+7       31 Sudeste        3
+8       31 Sudeste        3
+9       31 Sudeste        3
+10      31 Sudeste        3
+11      31 Sudeste        3
+12      31 Sudeste        3
+13      31 Sudeste        3
+14      31 Sudeste        3
+15      31 Sudeste        3
+16      31 Sudeste        3
+17      31 Sudeste        3
+18      31 Sudeste        3
+19      31 Sudeste        3
+20      31 Sudeste        3
+21      31 Sudeste        3
+22      31 Sudeste        3
+23      31 Sudeste        3
+24      31 Sudeste        3
+25      31 Sudeste        3
+26      31 Sudeste        3
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in ns("dataframe", height = "400px", width = "500px") : 
+  unused arguments (height = "400px", width = "500px")
+Calls: source ... dots_list -> widget_html -> <Anonymous> -> dots_list
+Execução interrompida
+Error in ns("dataframe", height = "400px", width = "500px") : 
+  unused arguments (height = "400px", width = "500px")
+Calls: source ... dots_list -> widget_html -> <Anonymous> -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in onclick: unused argument (append = TRUE)
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execução interrompida
