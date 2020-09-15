@@ -17,6 +17,8 @@ importPanelServer <- function(id) {
       dataframe <- importDataButtonServer(id = "button")
 
       displayDataframeServer(id = "display", dataframe = dataframe)
+
+      return(dataframe)
     }
   )
 }

@@ -18,6 +18,17 @@ uiDataImport <- tags$div(
 
 serverDataImport <- function(input, output, session) {
   sideBarPanelServer(id = "sideBarPanelDataImport")
-  importPanelServer(id = "importPanelDataImport")
-  forwardBackwardButtonsServer(id = "forwardBackwardButtonsDataImport", backward = "/", forward = "type")
+  dataframe <- importPanelServer(id = "importPanelDataImport")
+
+  observe({
+    forwardBackwardButtonsServer(
+      id = "forwardBackwardButtonsDataImport",
+      backward = "/",
+      forward = "type",
+      {
+        req(dataframe$data)
+        session$userData$dataframe$data <- dataframe$data
+      }
+    )
+  })
 }
