@@ -1,7 +1,17 @@
 @import "../../components/SideBarPanel/styles";
+@import "../../components/ForwardBackwardButtons/styles";
+@import "../../components/EditionPanel/styles";
 
 .edition {
   display: flex;
 
   @include sideBarPanel();
+  @include mainPanel() {
+    @include mainText() {
+      margin-top: 3%;
+    }
+
+    @include editionPanel();
+    @include forwardBackwardButtons();
+  }
 }
