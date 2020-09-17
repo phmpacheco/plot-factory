@@ -803,3 +803,811 @@ Listening on http://127.0.0.1:3333
 
 
 Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in source("./src/pages/Edition/index.R", encoding = "UTF-8") : 
+  ./src/pages/Edition/index.R:19:49: ',' inesperado
+18:   sideBarPanelServer(id = "sideBarPanelEdition")
+19:   editionPanelServer(id = "editionPanelEdition"),
+                                                    ^
+Calls: source ... eval -> source -> withVisible -> eval -> eval -> source
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in if: argumento tem comprimento zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in session$userData$plotConfig$subtitles$state <- plot$plotConfig$subtitles$state :
+  Realizando coerção de LHD para uma lista
+Warning in session$userData$plotConfig$fixedRange$state <- plot$plotConfig$fixedRange$state :
+  Realizando coerção de LHD para uma lista
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in session$userData$plotConfig$subtitles$state <- plot$plotConfig$subtitles$state :
+  Realizando coerção de LHD para uma lista
+Warning in session$userData$plotConfig$fixedRange$state <- plot$plotConfig$fixedRange$state :
+  Realizando coerção de LHD para uma lista
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in session$userData$plotConfig$subtitles$state <- plot$plotConfig$subtitles$state :
+  Realizando coerção de LHD para uma lista
+Warning in session$userData$plotConfig$fixedRange$state <- plot$plotConfig$fixedRange$state :
+  Realizando coerção de LHD para uma lista
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  reiniciando promessa interrompida de avaliação
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in session$userData$plotConfig$subtitles$state <- plot$plotConfig$subtitles$state :
+  Realizando coerção de LHD para uma lista
+Warning in session$userData$plotConfig$fixedRange$state <- plot$plotConfig$fixedRange$state :
+  Realizando coerção de LHD para uma lista
+
+Listening on http://127.0.0.1:3333
+[1] TRUE
+[1] FALSE
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in session$userData$plotConfig$subtitles$state <- plot$plotConfig$subtitles$state :
+  Realizando coerção de LHD para uma lista
+Warning in session$userData$plotConfig$fixedRange$state <- plot$plotConfig$fixedRange$state :
+  Realizando coerção de LHD para uma lista
+[[1]]
+[1] TRUE
+
+$state
+[1] TRUE
+
+[[1]]
+[1] FALSE
+
+$state
+[1] FALSE
+
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Error in dots_list(...) : argumento "text" ausente, sem padrão
+Calls: source ... mainText -> <Anonymous> -> dots_list -> p -> dots_list
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: Ignoring 3375 observations
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in compile_data(as_sass(input), options) : 
+  Error: File to import not found or unreadable: ../codePlot/styles.
+        on line 2:1 of src/components/ResultPanel/_styles.scss
+        from line 2:1 of src/pages/Result/_styles.scss
+        from line 9:1 of src/styles/main.scss
+        from line 1:1 of stdin
+>> @import "../codePlot/styles";
+
+   ^
+Calls: <Anonymous> ... dots_list -> <Anonymous> -> dots_list -> sass -> compile_data
+Execução interrompida
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: Ignoring 3381 observations
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: Ignoring 3381 observations
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: Ignoring 3381 observations
+Warning: Ignoring 3375 observations
+
+
+Execução interrompida
