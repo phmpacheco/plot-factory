@@ -43,16 +43,7 @@ server <- function(input, output, session) {
     type = NULL,
     x = NULL,
     y = NULL,
-    groupBy = NULL,
-    title = NULL,
-    subtitle = NULL,
-    hexColor = NULL,
-    typeColor = NULL
-  )
-
-  session$userData$plotConfig <- reactiveValues(
-    subtitles = TRUE,
-    fixedRange = FALSE
+    groupBy = NULL
   )
 }
 
